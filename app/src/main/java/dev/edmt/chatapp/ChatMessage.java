@@ -4,6 +4,7 @@ import java.util.Date;
 
 /**
  * Created by reale on 18/11/2016.
+ *Updated by Orengo on 21/12/2019
  */
 
 public class ChatMessage {
